@@ -1,2 +1,2 @@
 # E-commerce_Website
-front end of Webpage
+front end of Website
